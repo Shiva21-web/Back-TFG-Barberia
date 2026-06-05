@@ -1,0 +1,10 @@
+com\peluqueria\gestioncitas\GestionCitasApplicationTests.class
+com\peluqueria\gestioncitas\service\AuthServiceTest.class
+com\peluqueria\gestioncitas\service\DisponibilidadServiceTest.class
+com\peluqueria\gestioncitas\controller\CitaControllerTest.class
+com\peluqueria\gestioncitas\controller\ClienteControllerTest.class
+com\peluqueria\gestioncitas\controller\AuthControllerTest.class
+com\peluqueria\gestioncitas\service\CitaServiceTest.class
+com\peluqueria\gestioncitas\service\ClienteServiceTest.class
+com\peluqueria\gestioncitas\controller\ServicioControllerTest.class
+com\peluqueria\gestioncitas\service\ServicioServiceTest.class
