@@ -1,0 +1,27 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# Logs
+*.log
+
+# Java / IDE
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+.idea/
+*.project
+*.classpath
+*.settings/
+bin/
+.buildpath
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node (por si hay scripts)
+node_modules/
