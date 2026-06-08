@@ -1,8 +1,8 @@
 [phases.setup]
-aptPkgs = ["openjdk-21-jdk"]
+aptPkgs = ["openjdk-21-jdk", "maven"]
 
 [phases.build]
-cmds = ["./mvnw -ntp -DskipTests package"]
+cmds = ["mvn -ntp -DskipTests package"]
 
 [start]
 cmd = "java -jar target/gestion-citas-1.0.0.jar --server.port=$PORT"
